@@ -1,6 +1,6 @@
-#😀Bienvenido a mi primer bash script publicado en GitHub..
+<b>😀Bienvenido a mi primer bash script publicado en GitHub.</b>
 
-###MD5: 89c07398897af9b4656e1375eecb782e
+<b>MD5: 89c07398897af9b4656e1375eecb782e</b>
 
 
 ---------------------- Forma de ejecucion --------------------------
